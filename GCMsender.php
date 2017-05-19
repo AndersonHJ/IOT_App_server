@@ -43,7 +43,7 @@ class GCMPushMessage {
 		
 		$fields = array(
 			'registration_ids'  => $this->devices,
-			'data'              => array( "message" => $message ),
+			'data'              => array( "command" => $message ),
 		);
 		#echo $fields['data']['message'];
 		if(is_array($data)){

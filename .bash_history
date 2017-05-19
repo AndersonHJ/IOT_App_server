@@ -353,3 +353,295 @@ ls
 cd FCMStream/
 ls
 php service.php
+cd /var/www/html
+ls
+cat content
+cat content.txt
+cat content2.txt 
+cp GCMsender.php /home/ubuntu/
+cd home/ubuntu
+cd /home
+cd ubuntu
+ls
+cd /var/www/html
+ls
+cp index.php /home/ubuntu/
+cd /home/ubuntu/
+ls
+git init
+git add .
+sudo git commit -m "first"
+sudo git remote add origin https://github.com/AndersonHJ/IOT_App_server.git
+sudo git push origin master
+sudo git pull origin master
+sudo git push origin master
+ls
+cd fcmxmppserver/
+ls
+cd ..
+ls
+rm -r fcmxmppserver
+ls
+rm -r fcmxmppserver/*
+ls
+rm -r fcmxmppserver
+sudo rm -r fcmxmppserver
+ls
+sudo git commit -m "update"
+sudo git push origin master
+git add -A
+sudo git add -A
+sudo git commit -m "new"
+sudo git remote add origin https://github.com/AndersonHJ/IOT_App_server.git
+sudo git pull origin master
+sudo git push origin master
+ls
+sudo git add upstream/*
+sudo git commit -m "stream"
+sudo git remote add origin https://github.com/AndersonHJ/IOT_App_server.git
+sudo git pull origin master
+sudo git push origin master
+cd upstream
+ls
+ls -a
+sudo rm -r .git
+ls -a
+cd FCMStream/
+ls -a
+sudo rm -r .git
+ls -a
+cd ..
+ls
+cd ..
+ls
+sudo git add .
+sudo git commit -m "stream"
+sudo git pull origin master
+sudo git push origin master
+sudo git add -A
+sudo git commit -m "stream"
+sudo git init
+sudo git add .
+git add .
+ls -a
+sudo rm -r .git
+ls -a
+git init
+git add .
+git add -A
+sudo git commit -m "stream"
+sudo git remote add origin https://github.com/AndersonHJ/IOT_App_server.git
+sudo git pull origin master
+sudo git push origin master
+sudo git pull origin master
+sudo rm -r .git
+ls -a
+cd .cache/
+ls
+cd ..
+ls
+git init
+git add .
+git commit -m "init"
+sudo git remote add origin https://github.com/AndersonHJ/IOT_App_server.git
+git pull origin master
+sudo git push origin master
+git pull -f origin master
+sudo git push origin master --force
+ls
+cd upstream/
+ls
+cd FCMStream/
+ls
+php service.php
+cd /var/www/html
+ls
+cat index.html
+cd /
+ls
+cd var
+ls
+d log
+cd lod
+cd log
+ls
+cd apache2
+ls
+tail access.log
+ls
+php upstream/FCMStream/servive.php
+php upstream/FCMStream/service.php
+cd /var/www/html
+ls
+cat index.php
+ls
+cat content
+cat content.txt
+cd /var
+ls
+cd log
+ls
+cd apache2/
+ls
+tail access.log
+cd /var/www/html
+ls
+sudo vi index.php
+sudo service apache2 restart
+sudo vi index.php
+sudo service apache2 restart
+ls
+sudo vi GCMsender.php
+sudo service apache2 restart
+cd /var/log
+ls
+cd apache2/
+ls
+tail access.log
+cd /var
+ls
+sudo service apache2 restart
+cd log
+ls
+cd apache2/
+ls
+tail access.log
+ls
+cd error.log
+cat error.log
+cat other_vhosts_access.log 
+cd var
+ls
+cd /var
+ls
+cd log
+ls
+cd apache2/
+ls
+tail access.log
+ls
+tail access.log
+cd /home
+ls
+cd ubuntu/
+ls
+php upstream/FCMStream/service.php
+sudo service apache2 restart
+php upstream/FCMStream/service.php
+cd /var
+ls
+cd log
+ls
+cd aa
+cd apache2/
+ls
+tail access.log
+cat access.log
+tail access.log.1
+ls
+tail access.log
+tail access.log.1
+ls
+cat access.log
+cat access.log.1
+ls
+cat error.log
+cat access.log
+ls
+php upstream/FCMStream/service.php
+sudo service apache2 restart
+php upstream/FCMStream/service.php
+sudo service apache2 restart
+php upstream/FCMStream/service.php
+sudo service apache2 restart
+php upstream/FCMStream/service.php
+sudo service apache2 restart
+php upstream/FCMStream/service.php
+ls
+cd upstream/
+ls
+cd FCMStream/
+ls
+cat service.php 
+cd /var/www/html
+ls
+sudo vi test.php
+cd /
+ls
+cd log
+ls
+cd var
+ls
+cd log
+s
+ls
+cd apache2/
+ls
+cd error.log
+cat error.log
+cd /var/www/html
+ls
+sudo vi test.php
+ls
+sudo vi test.php
+sudo service apache2 restart
+sudo vi test.php
+sudo apt-get install php7.0-mysql
+sudo service apache2 restart
+sudo apt-get install php7.0-mysql
+sudo vi test.php
+cd /var/www/html
+l
+sudo vi test.php
+cd /
+ls
+cd var
+ls
+cd log
+ls
+cd ap
+cd apache2
+ls
+cat error.log
+ls
+cat access.log
+ls
+cat error.log
+cat access.log
+cat error.log
+cat access.log
+cd /var/www/html
+ls
+cat test.php
+ls
+cd /
+cd home
+ls
+cd ubuntu
+ls
+cd upstream/
+ls
+cd FCMStream/
+ls
+cat service.php
+ls
+cd upstream/
+ls
+cd FCMStream/
+php service.php 
+ls
+cd upstream/
+ls
+cd FCMStream/
+la
+ls
+open README.md 
+php service.php 
+ls
+php stream.php 
+php service.php 
+ls
+cd upstream/FCMStream/
+ls
+cat service.php
+cat stream.php 

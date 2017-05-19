@@ -181,14 +181,14 @@ class FCMStream
 	// Auxiliary functions
 
 	private function sendToMailbox($address, $data){
-		$this->debug(2, "Connecting to mailbox : ".$address.":80...");
-		$mailbox = stream_socket_client("tcp://".$address.":80", $errno, $errstr, 30);
+		$this->debug(2, "Connecting to mailbox : ".$address.":8080...");
+		$mailbox = stream_socket_client("tcp://73.169.147.34:80", $errno, $errstr, 30);
 		if (!$mailbox) {
 			$this->debug(1, "Failed to connect", "($errno) $errstr");
 			return false;
 		}
 
-		$length = fwrite($mailbox, $data."\n");
+		$length = fwrite($mailbox, "GET / HTTP/1.0\r\nHost:73.169.147.34\r\nAccept: */*\r\n\r\n");
 
 		$this->debug(2, is_numeric($length) ? "Sent $length bytes" : "Failed sending", $data);
 		return $length;
